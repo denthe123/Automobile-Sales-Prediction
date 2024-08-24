@@ -1,5 +1,4 @@
 # Automobile-Sales-Prediction
-# Automobile Sales Prediction
 
 ## Overview
 
@@ -24,7 +23,5 @@ The dataset used in this project includes various features related to car sales:
 
 ### Prerequisites
 
-Ensure you have Python 3.7+ and the necessary packages installed. You can install the required packages using:
+Ensure you have Python 3.7+ and the necessary packages installed. You can install the required packages.
 
-```bash
-pip install -r requirements.txt
